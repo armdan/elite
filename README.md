@@ -1,2 +1,3 @@
-# elite
-ELITE LEARNERS ACADEMY
+---
+permalink: /index.html
+---
